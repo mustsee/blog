@@ -4,6 +4,7 @@ import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import { SITE_TITLE, SITE_DESCRIPTION } from '../config';
 
+import content from '../frontAid/content.json'
 ---
 
 <!DOCTYPE html>
@@ -14,9 +15,9 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../config';
 	<body>
 		<Header title={SITE_TITLE} />
 		<main>
-			<h1>🧑‍🚀 {content['index']['h1-title']}</h1>
-			<p>{content['index']['1rst-p']}</p>
-			<p>{content['index']['2nd-p']}</p>
+			<h1>🧑‍🚀 {content['home-page']['main-title']}</h1>
+			<p>{content['home-page']['paragraph-one']}</p>
+			<p>{content['home-page']['paragraph-two']}</p>
 			<img src="welcome.jpeg" />
 		</main>
 		<Footer />
