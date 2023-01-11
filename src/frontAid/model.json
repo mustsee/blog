@@ -2,13 +2,13 @@
   ":name": "FrontAid CMS",
   ":description": "This is a test for i18n.",
   ":index": {
-    ":h1-title": {
+    "h1-title": {
       ":type": "line"
     },
-    ":1rst-p": {
+    "1rst-p": {
       ":type": "line"
     },
-    ":2nd-p": {
+    "2nd-p": {
       ":type": "line"
     }
   }
