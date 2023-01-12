@@ -2,7 +2,7 @@
   "en": {
     "home-page": {
       "main-title": "The <0>PSH<0> is a beautiful hostel!",
-      "paragraph-one": "This is paragraph one",
+      "paragraph-one": "This is paragraph one two",
       "paragraph-two": "This is paragraph two"
     }
   },
@@ -15,7 +15,7 @@
   },
   "es": {
     "home-page": {
-      "main-title": "El <0>PSH<0> smtgh in spanish!",
+      "main-title": "Le <0>PSH<0> est un hostel magnifique!",
       "paragraph-one": "párrafo uno",
       "paragraph-two": "párrafo dos"
     }
