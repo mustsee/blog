@@ -43,3 +43,14 @@ const { title, description, image = '/placeholder-social.jpg' } = Astro.props;
 <meta property="twitter:image" content={new URL(image, Astro.url)} />
 
 <script data-goatcounter="https://goat-test.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+
+<script>
+	let mainButton = document.getElementById('book-now')
+	mainButton.addEventListener('click', () => {
+		window.goatcounter.count({
+        path:  'click-main-button',
+        title: 'Book now button',
+        event: true,
+    })
+	})
+</script>
