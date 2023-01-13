@@ -1,21 +1,21 @@
 {
   "en": {
     "home-page": {
-      "main-title": "The <0>PSH<0> is a beautiful hostel!",
+      "main-title": "The <0>PSH</0> is a beautiful hostel!",
       "paragraph-one": "This is paragraph one two",
       "paragraph-two": "This is paragraph two"
     }
   },
   "fr": {
     "home-page": {
-      "main-title": "Le <0>PSH<0> est un hostel magnifique!",
+      "main-title": "Le <0>PSH</0> est un hostel magnifique!",
       "paragraph-one": "C'est le premier paragraphe",
       "paragraph-two": "C'est le second paragraphe"
     }
   },
   "es": {
     "home-page": {
-      "main-title": "Le <0>PSH<0> est un hostel magnifique!",
+      "main-title": "Le <0>PSH</0> est un hostel magnifique!",
       "paragraph-one": "párrafo uno",
       "paragraph-two": "párrafo dos"
     }
