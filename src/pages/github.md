@@ -2,8 +2,8 @@
 layout: "../layouts/BlogPost.astro"
 title: "Github"
 description: "First steps with github"
-updatedDate: "January 11 2023"
-heroImage: "/git-github-course/create-repository.png"
+pubDate: "Jan 11 2023"
+heroImage: "/blog/create-repository.png"
 ---
 
 ### Introduction
